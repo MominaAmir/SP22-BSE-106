@@ -1,0 +1,46 @@
+*{
+    
+    background-color:darkgrey;
+    margin: 0;
+    padding: 0;
+    
+}
+
+div
+{
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    height: 640px;
+    margin: 0;
+    padding: 0;
+}
+
+div img
+{
+    width: 300px;
+    height: 200px;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+
+div li
+{
+    list-style-type: none;
+    display: inline;
+    margin: 10px;
+    background-color:darkseagreen;
+    
+}
+
+div ul
+{
+    background-color:darkseagreen;
+    border: 5px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: right;
+}
+
+
