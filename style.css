@@ -30,6 +30,7 @@ div li
     display: inline;
     margin: 10px;
     background-color:darkseagreen;
+    cursor: pointer;
     
 }
 
